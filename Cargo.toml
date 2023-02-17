@@ -34,7 +34,7 @@ codicon = "3.0"
 bitfield = ">=0.13, <1.0"
 dirs = "4.0"
 iocuddle = "0.1"
-serde-big-array = "0.4.1"
+serde-big-array = "0.5.0"
 
 [dev-dependencies]
 dirs = "4.0"
